@@ -1,1 +1,1 @@
-# Dự án về kho luu trữ và lịch trình
+# Dự án về kho lưu trữ và lịch trình
